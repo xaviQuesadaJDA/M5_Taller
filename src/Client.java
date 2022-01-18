@@ -40,8 +40,4 @@ public class Client{
         this.cognoms = cognoms;
         this.adreca = adreca;
     }
-    
-    public static void main(String args[]){
-        System.out.println("Hola des del Client!");
-    }
 }
